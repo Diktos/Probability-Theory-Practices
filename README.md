@@ -1,1 +1,1 @@
-# Probability-Theory-Practices
+Виконання відбувається у Visual Studio
