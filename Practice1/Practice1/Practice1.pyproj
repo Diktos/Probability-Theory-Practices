@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>5c519b08-248e-4fd4-b929-c7508ae82886</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>block2_4v.py</StartupFile>
+    <StartupFile>block4_4v.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
