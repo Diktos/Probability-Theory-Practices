@@ -49,7 +49,7 @@ namespace Practice5
                 double skewness = (sum3 / n) / (stdDev * stdDev * stdDev); // Коефіцієнт асиметрії (скошеність)
                 double kurtosis = (sum4 / n) / (variance * variance) - 3.0; // Коефіцієнт ексцесу (гостроверхість)
 
-                Console.WriteLine($"k={k,2}: M[Z]={mean,8:F5}, D[Z]={variance:F5}, Skewness={skewness,8:F5}, Kurtosis={kurtosis,8:F5}");
+                Console.WriteLine($"k={k,2}: M[Z]={mean,8:F5}, D[Z]={variance:F5}, Skewness={skewness,8:F5}, Kurtosis={kurtosis,8:F5}"); 
             }
             Console.WriteLine();
         }
